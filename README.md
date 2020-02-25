@@ -14,3 +14,6 @@ Data used in this task was downloaded from LendingClub.com and is named as "lend
 *  A binary outcome variable for whether the user’s loan application was accepted by investors.
 
 Our goal with this project will be to automatically predict whether a borrower will be approved for a loan from the investor members of the website, based  on the data provided above. 
+
+
+This project will be processed into three primary tasks, in which we will do couple of subtasks. 
