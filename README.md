@@ -1,4 +1,4 @@
-### Whose loan application will be accepted?
+# Whose loan application will be accepted?
 
 
 Data used in this task was downloaded from LendingClub.com and is named as "lendingclub.csv". Each row of this file represents a single user account on LendingClub.com. The site consists of two types of users, borrowers who are applying for a new loan, and investors who lend money for fixed periods of time. Each row in our dataset represents a single borrower at the time they apply for their first peer-to-peer loan, and each row contains nine columns:
@@ -16,4 +16,6 @@ Data used in this task was downloaded from LendingClub.com and is named as "lend
 Our goal with this project will be to automatically predict whether a borrower will be approved for a loan from the investor members of the website, based  on the data provided above. 
 
 
-This project will be processed into three primary tasks, in which we will do couple of subtasks. 
+This project will be processed into two primary tasks, in which we will do couple of subtasks. Detailed summary is provided directly in the code notebook.
+
+
